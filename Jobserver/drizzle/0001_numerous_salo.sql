@@ -1,0 +1,1 @@
+ALTER TABLE `jobs` ADD `status` enum('Pending','Shortlisted','Not Shortlisted') DEFAULT 'Pending' NOT NULL;

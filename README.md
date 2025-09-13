@@ -40,7 +40,7 @@ Interview Prep – Generates tailored interview questions & answers.
 
 📸 Demo
 
-👉 Add screenshots, GIFs, or a link to your demo video here. https://drive.google.com/file/d/1BRPGZRJvSJIIZoMGyEd79QpC4P2FBR0V/view?usp=drive_link
+👉 Add screenshots, GIFs, or a link to your demo video here. https://drive.google.com/file/d/1BRPGZRJvSJIIZoMGyEd79QpC4P2FBR0V/view?usp=sharing
 
 🚧 Future Enhancements
 
